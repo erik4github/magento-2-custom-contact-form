@@ -36,7 +36,7 @@ class FormName extends \Magento\Framework\View\Element\Template
 	 */
 	public function getFormAction()
 	{
-		return '/forms/creditapp/creditapp';
+		return '/forms/formname/formname';
 	}
 
 	/**
